@@ -148,6 +148,9 @@ body{
 .m-color-black{
     color: black !important;
 }
+.m-teal {
+    color: #00B5AD !important;
+}
 
 .m-mobile-show {
     display: none !important;
